@@ -1,4 +1,4 @@
-                                  Incremental Data Loading from Amazon S3 to AWS Redshift Using AWS Glue ETL
+                         Incremental Data Loading from Amazon S3 to AWS Redshift Using AWS Glue ETL
 ![Amazon S3](https://a11ybadges.com/badge?logo=amazons3)  ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-ETL-blue?logo=amazon-aws&style=flat-square) ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-Data%20Warehouse-red?logo=amazon-aws&style=flat-square)
 
 
